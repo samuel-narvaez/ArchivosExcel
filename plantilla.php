@@ -12,7 +12,7 @@
            // Movernos a la derecha
            $this->Cell(85);
            // Título
-           $this->Cell(50,6,'lugar emision',1,0,'C');
+           $this->Cell(50,6,'LUGAR EMISION',1,0,'C');
            $this->Cell(15,6,'Dia',1,0,'C');
            $this->Cell(15,6,'Mes',1,0,'C');
            $this->Cell(15,6,utf8_decode('Año'),1,1,'C');
