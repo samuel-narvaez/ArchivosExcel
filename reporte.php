@@ -36,7 +36,7 @@
     $pdf->Cell(25, 10, '1000000',1,0,'C');
     $pdf->Cell(25, 10, '1000000',1,0,'C');
     $pdf->Cell(25, 10, '1000000',1,0,'C');
-    $pdf->MultiCell(120, 6, 'kasdkasdkaldsalskdalksdalksdlaksdlkasdklasdklasdkajsdjajkadkjakjsadkjjaksjdajkkjsjkads',1,1,'C');
+    $pdf->MultiCell(120, 6, 'kasdkasdkaldsalskdalksda',1,1,'C');
 
     $pdf->Cell(170, 6, 'Total A Pagar:',1,0,'C',1);
     $pdf->Cell(25, 6, $data['facultad']['id'],1,1,'C');
